@@ -146,8 +146,8 @@ body {
     color: #999;
     /* IE8 proofing */
     color: rgba(255, 255, 255, .5);
-    position: fixed;
-    bottom: 0;
+    /*position: fixed;*/
+    /*bottom: 0;*/
     width: 100%
 }
 
@@ -191,23 +191,24 @@ body {
     height: 80px;
 }
 
-@media only screen and (min-width: 300px) {
+@media only screen and (min-width: 300px) and (orientation: portrait) {
     .profile-picture {
         height: 80px;
     }
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 400px) and (orientation: portrait) {
     .profile-picture {
         height: 150px;
     }
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 700px) and (orientation: portrait) {
     .profile-picture {
         height: 200px;
     }
 }
+
 
 /*.social-share-icons i {
     padding-left: 10px;
