@@ -8,4 +8,4 @@ It is powered by [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://pages.gi
 # Licences
 
 * Using the [HPSTR Theme](https://mademistakes.com/work/hpstr-jekyll-theme/) under the [MIT Licence](/LICENSE)
-* The content of my website are solely my opinions, and are under the [SOME LICENCE](/). If you do use this repository, note that content and IP rights are with me. Feel free to quote me and provide a link back here :)
+* The content of my website are under the [SOME LICENCE](/). Feel free to <code>ctrl+c</code> <code>ctrl+v</code> me and provide a link back here; or not.

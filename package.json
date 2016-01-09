@@ -1,13 +1,13 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "amrithyerramilli.github.io",
+  "author": "Amrith Yerramilli <amrith.yerramilli@gmail.com>",
+  "homepage": "http://amrithyerramilli.github.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
+    "url": "https://github.com/amrithyerramilli/amrithyerramilli.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
+    "url": "https://github.com/amrithyerramilli/amrithyerramilli.github.io/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
