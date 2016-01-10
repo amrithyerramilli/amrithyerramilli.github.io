@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-modified: 2015-11-16 00:00
+modified: 2015-01-10 22:45:00 +0530
 tags: [amrith yerramilli, dreamer, driver, developer, full stack, full stack developer, javascript, html, css, bootstrap, node, angular, knockout, philosophy]
 image:
   feature:
