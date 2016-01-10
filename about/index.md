@@ -31,4 +31,4 @@ I am one of those [full stack developers](https://www.google.co.in/search?q=full
 Most of my technical skills revolve around web technologies. I jumped into hybrid mobile apps recently.
 I'm also looking forward to exploring the native app development SDKs.
 
-I also have a love for <i class="fa fa-car fa-lg fa-fw" title="driving"></i> <i class="fa fa-cutlery fa-lg fa-fw" title="cooking"></i> <i class="fa fa-coffee fa-lg fa-fw" title="coffee"></i> <i class="fa fa-beer fa-lg fa-fw" title="hangout"></i> <i class="fa fa-futbol-o fa-lg fa-fw" title="Football"></i> <i class="fa fa-lg fa-fw fa-music" title="Music"></i>.
+I also have a love for <i class="fa fa-car fa-lg fa-fw" title="driving"></i> <i class="fa fa-motorcycle fa-lg fa-fw" title="riding"></i> <i class="fa fa-cutlery fa-lg fa-fw" title="cooking"></i> <i class="fa fa-camera fa-lg fa-fw" title="photography"></i> <i class="fa fa-coffee fa-lg fa-fw" title="coffee"></i> <i class="fa fa-beer fa-lg fa-fw" title="hangout"></i> <i class="fa fa-futbol-o fa-lg fa-fw" title="Football"></i> <i class="fa fa-lg fa-fw fa-music" title="Music"></i>.
