@@ -144,11 +144,7 @@ body {
 
 .mastfoot {
     color: #999;
-    /* IE8 proofing */
     color: rgba(255, 255, 255, .5);
-    /*position: fixed;*/
-    /*bottom: 0;*/
-    width: 100%
 }
 
 
@@ -188,7 +184,7 @@ body {
 }
 
 .profile-picture {
-    height: 80px;
+    height: 200px;
 }
 
 @media only screen and (min-width: 300px) and (orientation: portrait) {

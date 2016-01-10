@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /about/
-title: "About"
+title: About
 modified: 2015-11-16 00:00
 tags: [amrith yerramilli, dreamer, driver, developer, full stack, full stack developer, javascript, html, css, bootstrap, node, angular, knockout, philosophy]
 image:
-  feature: 
-  credit: 
-  creditlink: 
-share: 
+  feature:
+  credit:
+  creditlink:
+share: false
+comments : false
 ---
 
 > I am Amrith Yerramilli.
@@ -31,4 +31,4 @@ I am one of those [full stack developers](https://www.google.co.in/search?q=full
 Most of my technical skills revolve around web technologies. I jumped into hybrid mobile apps recently.
 I'm also looking forward to exploring the native app development SDKs.
 
-I also have a love for <i class="fa fa-car fa-lg fa-fw" title="driving"></i> <i class="fa fa-cutlery fa-lg fa-fw" title="cooking"></i> <i class="fa fa-coffee fa-lg fa-fw" title="coffee"></i> <i class="fa fa-beer fa-lg fa-fw" title="hangout"></i> :soccer: (Yes, I need to update my [Icon Set](http://fontawesome.io/) so that I can make this more consistent :metal:). I am pretty good at whistling to known songs <i class="fa fa-lg fa-fw fa-music"></i> (read as typical bollywood songs :stuck_out_tongue_winking_eye:).
+I also have a love for <i class="fa fa-car fa-lg fa-fw" title="driving"></i> <i class="fa fa-cutlery fa-lg fa-fw" title="cooking"></i> <i class="fa fa-coffee fa-lg fa-fw" title="coffee"></i> <i class="fa fa-beer fa-lg fa-fw" title="hangout"></i> <i class="fa fa-futbol-o fa-lg fa-fw" title="Football"></i> <i class="fa fa-lg fa-fw fa-music" title="Music"></i>.
