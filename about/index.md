@@ -15,11 +15,17 @@ comments : false
 
 - - -
 
-Off late, I spend my weekends pulling off  _**30+ hours** hackathons_. Yes, sometimes, I go late to work on Mondays.
+Guy from Bangalore. Don't mind calling it Bengaluru.
 
-I'm also exploring a bunch of awesome frameworks technologies; one of which is **[Jekyll](http://jekyllrb.com/)** and I'm looking forward to creating a jekyll theme based on [Bootstrap](http://getbootstrap.com/examples/cover/), which I am using on [my home page](/).
+Codes for fun. Work is fun.
+
+Drives with passion.
+
+Made this Blog+Website to have an online presence, and jibber-jabber about stuff.
 
 - - -
+
+_**TL;DR version**_
 
 It took me a while to mark my territory online, but I am here now.
 I live and work in Bengaluru, India; and _clichéd-ly_, I obsess over the amazing weather out here.
