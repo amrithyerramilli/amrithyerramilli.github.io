@@ -68,6 +68,7 @@ kramdown:
 
 prose :
   rooturl : '_posts'
+  siteurl : 'https://amrithyerramilli.github.io'
   media : 'media'
   metadata :
     _posts :
