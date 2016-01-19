@@ -86,18 +86,11 @@ prose :
           label : "Description"
           value : ""
       - name : "image"
-        - name : "feature"
-          field:
-            element : "text"
-            label : "Feature Image"
-            placeholder: "Name of the image uploaded to /images"
-            value : ""
-      - name : "image.credit"
         field:
-          element : "text"
+          element : "Textarea"
           label : "Feature Image Credits"
           placeholder: ""
-          value : ""
+          value : "feature: credit: creditlink:"
       - name: "tags"
         field:
           element: "multiselect"
