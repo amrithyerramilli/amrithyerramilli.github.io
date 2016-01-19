@@ -90,7 +90,10 @@ prose :
           element : "textarea"
           label : "Feature Image Credits"
           placeholder: ""
-          value : "feature: credit: creditlink:"
+          value : > 
+                    feature: 
+                    credit: 
+                    creditlink:
       - name: "tags"
         field:
           element: "multiselect"
