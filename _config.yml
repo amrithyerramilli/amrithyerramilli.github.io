@@ -87,7 +87,7 @@ prose :
           value : ""
       - name : "image"
         field:
-          element : "Textarea"
+          element : "textarea"
           label : "Feature Image Credits"
           placeholder: ""
           value : "feature: credit: creditlink:"
