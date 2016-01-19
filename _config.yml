@@ -90,7 +90,7 @@ prose :
           element : "textarea"
           label : "Feature Image Credits"
           placeholder: ""
-          value : > 
+          value : | 
                     feature: 
                     credit: 
                     creditlink:
