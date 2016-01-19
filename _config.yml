@@ -70,6 +70,7 @@ prose :
   rooturl : '_posts'
   siteurl : 'https://amrithyerramilli.github.io'
   media : 'media'
+  ignore: ['index.html', '_config.yml']
   metadata :
     _posts :
       - name: "layout"
