@@ -85,12 +85,13 @@ prose :
           element : "text"
           label : "Description"
           value : ""
-      - name : "image.feature"
-        field:
-          element : "text"
-          label : "Feature Image"
-          placeholder: "Name of the image uploaded to /images"
-          value : ""
+      - name : "image"
+        - name : "feature"
+          field:
+            element : "text"
+            label : "Feature Image"
+            placeholder: "Name of the image uploaded to /images"
+            value : ""
       - name : "image.credit"
         field:
           element : "text"
