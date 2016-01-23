@@ -1,11 +1,11 @@
 ---
 layout: post
 description: A random thought about UI and UX designers
-image: 
+image:
   feature: null
   credit: null
   creditlink: null
-tags: 
+tags:
   - meme
   - UI
   - UX
@@ -13,7 +13,6 @@ tags:
 comments: true
 share: true
 modified: "2016-01-20 09:57 +0530"
-published: false
 title: "Who's the designer"
 ---
 
