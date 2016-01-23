@@ -25,7 +25,7 @@ Made this Blog+Website to have an online presence, and jibber-jabber about stuff
 
 - - -
 
-_**TL;DR version**_
+_**<abbr title="Too long; didn't read">TL;DR</abbr> version**_
 
 It took me a while to mark my territory online, but I am here now.
 I live and work in Bengaluru, India; and _clichéd-ly_, I obsess over the amazing weather out here.
