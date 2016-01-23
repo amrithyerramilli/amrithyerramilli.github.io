@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-modified: 2015-01-10 22:45:00 +0530
+modified: 2016-01-10 22:45:00 +0530
 tags: [amateur, introduction]
 description: My foray into weblogging
 image:
@@ -14,7 +14,6 @@ share: true
 
 Hi there! Welcome to my blog.
 
-<!--more-->
 It looks like this will be the home for some of the stuff that I decide to type out. My blog's theme supports [link posts](https://mmistakes.github.io/hpstr-jekyll-theme/sample-link-post/), which means I will probably use this as a way to share some interesting things that I stumble up on.
 I'm looking forward to writing about work, cooking, philosophy, driving, and more.
 
