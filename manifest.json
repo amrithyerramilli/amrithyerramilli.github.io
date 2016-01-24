@@ -34,6 +34,6 @@
 			"density": 3
 		}
 	],
-	"start_url": "{{ site.url | replace: '/','\/' }}",
+	"start_url": "https:\/\/amrithyerramilli.github.io",
 	"display": "standalone"
 }
