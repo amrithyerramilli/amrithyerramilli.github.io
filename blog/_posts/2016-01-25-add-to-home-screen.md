@@ -90,7 +90,7 @@ I was pleasntly surprised that it loaded a decent splash screen with my site ico
 
 Obviously there are a **lot** of limitations to this and duh, it is currently only for Chrome on Android. Apple has their own spec for creating these _native-ish_ web apps. What's funny is this doesn't even work with Chrome on iOS :unamused:.
 
-## But why?
+## But why do this?
 
 >
 Nowadays, the primary gaps between native and web is not so much technological. It’s user experience. Users simply love installing apps, which live snugly on the homescreen (or the desktop) waiting to be tickled into life with the tap of a finger or the click of a mouse.
