@@ -2,33 +2,33 @@
 ---
 {
 	"name": "{{ site.title }} | {{ site.description }}",
-	"short_name": "AY | {{ site.description }}"
+	"short_name": "AY | {{ site.description }}",
 	"icons": [
 		{
-			"src": "{{ site.url | replace: '/','\/' }}\/images\/icons\/android-chrome-36x36.png?v=201601231018443021",
+			"src": "\/images\/icons\/android-chrome-36x36.png?v=201601231018443021",
 			"sizes": "36x36",
 			"type": "image\/png",
 			"density": 0.75
 		},
 		{
-			"src": "{{ site.url | replace: '/','\/' }}\/images\/icons\/android-chrome-48x48.png?v=201601231018443021",
+			"src": "\/images\/icons\/android-chrome-48x48.png?v=201601231018443021",
 			"sizes": "48x48",
 			"type": "image\/png",
 			"density": 1
 		},
 		{
-			"src": "{{ site.url | replace: '/','\/' }}\/images\/icons\/android-chrome-72x72.png?v=201601231018443021",
+			"src": "\/images\/icons\/android-chrome-72x72.png?v=201601231018443021",
 			"sizes": "72x72",
 			"density": 1.5
 		},
 		{
-			"src": "{{ site.url | replace: '/','\/' }}\/images\/icons\/android-chrome-96x96.png?v=201601231018443021",
+			"src": "\/images\/icons\/android-chrome-96x96.png?v=201601231018443021",
 			"sizes": "96x96",
 			"type": "image\/png",
 			"density": 2
 		},
 		{
-			"src": "{{ site.url | replace: '/','\/' }}\/images\/icons\/android-chrome-144x144.png?v=201601231018443021",
+			"src": "\/images\/icons\/android-chrome-144x144.png?v=201601231018443021",
 			"sizes": "144x144",
 			"type": "image\/png",
 			"density": 3
