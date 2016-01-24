@@ -68,56 +68,57 @@ prose :
   siteurl : 'https://amrithyerramilli.github.io'
   media : 'images'
   metadata :
-    _posts :
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name : "title"
-        field:
-          element : "text"
-          label : "Title"
-          value : ""
-      - name : "description"
-        field:
-          element : "text"
-          label : "Description"
-          value : ""
-      - name : "image"
-        field:
-          element : "textarea"
-          label : "Feature Image Credits"
-          placeholder: ""
-          value : |
-                    feature:
-                    credit:
-                    creditlink:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable : true
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name : "comments"
-        field:
-          element : "checkbox"
-          label : "Comments"
-          value : true
-      - name : "share"
-        field:
-          element : "checkbox"
-          label : "Share"
-          value : true
-      - name : "modified"
-        field:
-          element : "text"
-          label : "Modified"
-          value : CURRENT_DATETIME
+  	blog :
+      _posts :
+        - name: "layout"
+          field:
+            element: "hidden"
+            value: "post"
+        - name : "title"
+          field:
+            element : "text"
+            label : "Title"
+            value : ""
+        - name : "description"
+          field:
+            element : "text"
+            label : "Description"
+            value : ""
+        - name : "image"
+          field:
+            element : "textarea"
+            label : "Feature Image Credits"
+            placeholder: ""
+            value : |
+                      feature:
+                      credit:
+                      creditlink:
+        - name: "tags"
+          field:
+            element: "multiselect"
+            label: "Add Tags"
+            placeholder: "Choose Tags"
+            alterable : true
+            options:
+              - name: "Apples"
+                value: "apples"
+              - name: "Bananas"
+                value: "bananas"
+        - name : "comments"
+          field:
+            element : "checkbox"
+            label : "Comments"
+            value : true
+        - name : "share"
+          field:
+            element : "checkbox"
+            label : "Share"
+            value : true
+        - name : "modified"
+          field:
+            element : "text"
+            label : "Modified"
+            value : CURRENT_DATETIME
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
