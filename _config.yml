@@ -68,7 +68,7 @@ prose :
   siteurl : 'https://amrithyerramilli.github.io'
   media : 'images'
   metadata :
-  	blog :
+    blog :
       _posts :
         - name: "layout"
           field:
