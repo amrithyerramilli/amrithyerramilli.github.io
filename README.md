@@ -1,7 +1,7 @@
 # amrithyerramilli.github.io
 
 This is my personal website and blog.
-It is powered by [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://pages.github.com/) and uses the [HPSTR Theme](https://mademistakes.com/work/hpstr-jekyll-theme/).
+It is powered by [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://pages.github.com/) and uses the [HPSTR Theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
 
 ---
 
