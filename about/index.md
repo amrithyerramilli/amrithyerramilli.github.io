@@ -9,6 +9,7 @@ image:
   creditlink:
 share: false
 comments : false
+modified : 2016-08-01 23:23:48
 ---
 
 > I am Amrith Yerramilli.
@@ -30,9 +31,9 @@ _**<abbr title="Too long; didn't read">TL;DR</abbr> version**_
 It took me a while to mark my territory online, but I am here now.
 I live and work in Bengaluru, India; and _clichéd-ly_, I obsess over the amazing weather out here.
 
-I currently work as a product engineer at [DeltaX](http://www.deltax.com/). I joined them _**2+ years**_ ago, as *computer science engineering* undergrad from [RNS Institute of Technology](http://www.rnsit.ac.in/) (**do not** click the link. I've warned you).
+I currently work as a product engineer at [DeltaX](http://www.deltax.com/). I joined them _**3+ years**_ ago, as *computer science engineering* undergrad from [RNS Institute of Technology](http://www.rnsit.ac.in/) (**do not** click the link. I've warned you).
 
-I am one of those [full stack developers](https://www.google.co.in/search?q=full+stack+developer), with a knack for building cool stuff. Although I enjoy working on [all layers](https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture) of the product, I expend most of my skill designing the core structures and patterns, working with APIs, Frameworks, JavaScript and developing UI/UX. I also have a weird sceptical affinity towards mentoring - Most of the time, I just reply to queries using memes or [lmgtfy](http://lmgtfy.com/) :sweat_smile:.
+I am one of those [full stack developers](https://www.google.co.in/search?q=full+stack+developer), with a knack for building cool stuff. Although I enjoy working on [all layers](https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture) of the product, I expend most of my skill designing the core structures and patterns, working with APIs, Frameworks, JavaScript and developing UI/UX. I use memes or [lmgtfy](http://lmgtfy.com/) to answer to silly questions :sweat_smile:.
 
 Most of my technical skills revolve around web technologies. I jumped into hybrid mobile apps recently.
 I'm also looking forward to exploring the native app development SDKs.

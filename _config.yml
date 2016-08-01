@@ -5,8 +5,8 @@ reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here
 # When testing locally leave blank or use http://localhost:4000
-url:  https://amrithyerramilli.github.io
-# url: http://localhost:4000
+# url:  https://amrithyerramilli.github.io
+url: http://localhost:4000
 
 # Owner/author information
 owner:
@@ -38,10 +38,13 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Calcutta
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
   - jemoji
 sass:
   sass_dir: _sass
@@ -50,224 +53,39 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
+# Amount of post to show on home page
+paginate: 5
+
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-prose :
-  siteurl : 'https://amrithyerramilli.github.io'
-  media : 'images'
-  metadata :
-    blog/_posts :
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name : "title"
-        field:
-          element : "text"
-          label : "Title"
-          value : ""
-      - name : "description"
-        field:
-          element : "text"
-          label : "Description"
-          value : ""
-      - name : "image"
-        field:
-          element : "textarea"
-          label : "Feature Image Credits"
-          placeholder: ""
-          value : |
-                    feature:
-                    credit:
-                    creditlink:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable : true
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name : "comments"
-        field:
-          element : "checkbox"
-          label : "Comments"
-          value : true
-      - name : "share"
-        field:
-          element : "checkbox"
-          label : "Share"
-          value : true
-      - name : "modified"
-        field:
-          element : "text"
-          label : "Modified"
-          value : CURRENT_DATETIME
-    blog/_drafts :
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name : "title"
-        field:
-          element : "text"
-          label : "Title"
-          value : ""
-      - name : "description"
-        field:
-          element : "text"
-          label : "Description"
-          value : ""
-      - name : "image"
-        field:
-          element : "textarea"
-          label : "Feature Image Credits"
-          placeholder: ""
-          value : |
-                    feature:
-                    credit:
-                    creditlink:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable : true
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name : "comments"
-        field:
-          element : "checkbox"
-          label : "Comments"
-          value : true
-      - name : "share"
-        field:
-          element : "checkbox"
-          label : "Share"
-          value : true
-      - name : "modified"
-        field:
-          element : "text"
-          label : "Modified"
-          value : CURRENT_DATETIME
-    random/_posts :
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name : "title"
-        field:
-          element : "text"
-          label : "Title"
-          value : ""
-      - name : "description"
-        field:
-          element : "text"
-          label : "Description"
-          value : ""
-      - name : "image"
-        field:
-          element : "textarea"
-          label : "Feature Image Credits"
-          placeholder: ""
-          value : |
-                    feature:
-                    credit:
-                    creditlink:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable : true
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name : "comments"
-        field:
-          element : "checkbox"
-          label : "Comments"
-          value : true
-      - name : "share"
-        field:
-          element : "checkbox"
-          label : "Share"
-          value : true
-      - name : "modified"
-        field:
-          element : "text"
-          label : "Modified"
-          value : CURRENT_DATETIME
-    random/_drafts :
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name : "title"
-        field:
-          element : "text"
-          label : "Title"
-          value : ""
-      - name : "description"
-        field:
-          element : "text"
-          label : "Description"
-          value : ""
-      - name : "image"
-        field:
-          element : "textarea"
-          label : "Feature Image Credits"
-          placeholder: ""
-          value : |
-                    feature:
-                    credit:
-                    creditlink:
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable : true
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-      - name : "comments"
-        field:
-          element : "checkbox"
-          label : "Comments"
-          value : true
-      - name : "share"
-        field:
-          element : "checkbox"
-          label : "Share"
-          value : true
-      - name : "modified"
-        field:
-          element : "text"
-          label : "Modified"
-          value : CURRENT_DATETIME
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+include: 
+  - .htaccess
+exclude: 
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
