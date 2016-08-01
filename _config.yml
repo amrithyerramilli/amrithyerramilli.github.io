@@ -5,8 +5,8 @@ reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here
 # When testing locally leave blank or use http://localhost:4000
-# url:  https://amrithyerramilli.github.io
-url: http://localhost:4000
+url:  https://amrithyerramilli.github.io
+# url: http://localhost:4000
 
 # Owner/author information
 owner:
